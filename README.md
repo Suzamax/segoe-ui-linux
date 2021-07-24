@@ -14,9 +14,7 @@
 Open `terminal` and run the command below
 
 ```
-wget https://raw.githubusercontent.com/mrbvrz/segoe-ui-linux/master/install.sh
-chmod +x install.sh
-./install.sh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/mrbvrz/segoe-ui-linux/master/install.sh)"
 ```
 
 ## Sample:
